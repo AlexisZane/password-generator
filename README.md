@@ -16,6 +16,8 @@ https://github.com/AlexisZane/password-generator/blob/master/assets/deployment-s
 https://github.com/AlexisZane/password-generator/blob/master/assets/deployment-screenshots/deployed-9.png
 https://github.com/AlexisZane/password-generator/blob/master/assets/deployment-screenshots/deployed-final.png
 
+If interested, please view the application deployed through GitHub Pages here: https://alexiszane.github.io/password-generator/
+
 # Technologies Used
 -HTML
 -CSS
